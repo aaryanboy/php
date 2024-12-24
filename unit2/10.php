@@ -1,5 +1,5 @@
 <?php
-$email = "brian@gmail.com";
+$email = "aryan123@gmail.com";
 
 $emailPattern = "/^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6}$/";
 

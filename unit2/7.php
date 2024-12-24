@@ -1,8 +1,8 @@
 <?php
 $person = [
-    "Name" => "Brian",
+    "Name" => "aryan",
     "Age" => 20,
-    "Email" => "Brian123@gmail.com"
+    "Email" => "aryan123@gmail.com"
 ];
 echo "Details:<br>";
 foreach ($person as $key => $value) {
