@@ -1,5 +1,5 @@
 <?php
-$name = "Brian";
+$name = "aryan";
 $heredocString = <<<EOD
 Hello, $name!
 This is a multi-line string using Heredoc.
